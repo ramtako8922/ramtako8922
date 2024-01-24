@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo Mejía</h1>
 <h3 align="center">Jr Full Stack Developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Devs Latam**
+- 🔭 I’m currently open to work**
 
 - 🌱 I’m currently learning **Angular, Flutter**
 
