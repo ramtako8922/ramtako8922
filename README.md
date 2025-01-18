@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo Mejía</h1>
-<h3 align="center">Jr Full Stack Developer from Colombia</h3>
+<h3 align="center"> Full Stack Developer from Colombia</h3>
 
 - 🔭 I’m currently open to work**
 
